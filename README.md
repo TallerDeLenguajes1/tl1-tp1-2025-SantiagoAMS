@@ -12,5 +12,5 @@ Algunas veces cuando tenemos archivos que no son codigo como algun documento, im
 Cuando hayan archivos que no necesitamos hacer publicos en el repositorio, que sean redundantes, o cuando tengamos dependencias.
  
 > ### 3 - ¿Cómo configuraría el archivo .gitignore?
-
+Desde este enlace [gitignore.io](https://www.toptal.com/developers/gitignore) se puede generar una base inicial, y el resto se haria manualmente
  
